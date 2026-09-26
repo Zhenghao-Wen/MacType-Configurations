@@ -1,3 +1,19 @@
+# 自用 MacType 配置及脚本
+
+我对 Sam Toki 的高质量 MacType 无替换版配置进行了修改和补充，以解决个人遇到的一些问题和新增需求。重点强化了 ArmBreaker 配置，以改善覆盖效果。适合 OLED 高分辨率屏幕使用。
+
+我同时添加了两个脚本，以便简单快速地完成 MacType 注册表启用和 WPS 反注入移除工作。
+
+以上详见 `/PERSONAL` 文件夹。
+
+亦在智教联盟论坛发布：[链接](https://forum.smart-teach.cn/d/1853-ge-wei-du-shi-zen-yao-pei-zhi-mactypede/4)。
+
+> 注：我使用了 DeepSeek Flash 模型辅助整理有关信息。当然，配置和脚本均经过实际使用检验。配置的部分参数为手调，直到达到让我满意的程度。
+
+---
+
+> 以下为 Sam Toki 原 README 。
+
 # 简介 Description
 
 由于历史原因，Windows 系统上的文字显示（尤其是汉字）一直饱受部分用户诟病。这主要归咎于 [ClearType](https://zh.wikipedia.org/wiki/ClearType) 子像素字体渲染技术，以及[字体 hinting](https://zh.wikipedia.org/wiki/字体微调) 技术。<br>
